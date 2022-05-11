@@ -230,6 +230,7 @@ img{
 .about__img img{
     width: 200px;
     border-radius: 50%;
+    z-index: 99;
 
 }
 .about__subtitle{
