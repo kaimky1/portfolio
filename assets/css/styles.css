@@ -226,6 +226,7 @@ img{
     background-color: var(--first-color);
     border-radius: 50%;
     overflow: hidden;
+    z-index: -1;
 }
 .about__img img{
     width: 200px;
