@@ -221,14 +221,13 @@ img{
     display: flex;
     justify-content: center;
     padding: 1rem;
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     background-color: var(--first-color);
     border-radius: 50%;
     overflow: hidden;
 }
 .about__img img{
-    width: 200px;
     border-radius: 50%;
 
 }
