@@ -524,8 +524,65 @@ h2 {
     }
 }
 
+@media screen and (max-width: 1693px){
+    .home__img {
+        width: 430px;
+      }
+      .home__title{
+          font-size: 6rem;
+      }
+}
+
+@media screen and (max-width: 925px){
+    .home__img {
+        width: 330px;
+      }
+      .home__title{
+          font-size: 6rem;
+      }
+}
+
+@media screen and (max-width: 825px){
+    .home__img {
+        width: 300px;
+      }
+      .home__title{
+          font-size: 5.5rem;
+      }
+}
+
+@media screen and (max-width: 393px) {
+    .home__img {
+      width: 230px;
+    }
+    .home__title{
+        font-size: 5rem;
+    }
+  }
+
+@media screen and (max-width: 500px) {
+  .home__img {
+    width: 230px;
+  }
+  body{
+    margin: 0;
+  }
+}
+
 /* For tall screens on mobiles y desktop*/
-@media screen and (min-height: 1000px) {
+/* @media screen and (min-height: 1000px) {
+    .home__container {
+        height: 640px;
+    }
+   
+    .home__img {
+        width: 524px;
+        right: 10%;
+
+    }
+} */
+
+@media screen and (min-height: 1181px) {
     .home__container {
         height: 640px;
     }
