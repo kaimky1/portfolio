@@ -434,9 +434,6 @@ h2 {
     body{
         margin: 0;
     }
-    .section{
-        padding-top: 4rem;
-    }
     .section-title{
         margin-bottom: 3rem;
     }
@@ -493,13 +490,11 @@ h2 {
     }
 
     .skills__container{
-        grid-template-columns: repeat(2, 1fr);
         align-items: center;
     }
 
     .portfolio__container{
         grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: repeat(2, 1fr);
         column-gap: 2rem;
     }
 

@@ -407,7 +407,6 @@ img{
         margin: 0;
     }
     .section{
-        padding-top: 4rem;
 
         &-title{
             margin-bottom: 3rem;
@@ -482,7 +481,6 @@ img{
     .portfolio{
         &__container{
             grid-template-columns: repeat(3,1fr);
-            grid-template-rows: repeat(2, 1fr);
             column-gap: 2rem;
         }
     }
