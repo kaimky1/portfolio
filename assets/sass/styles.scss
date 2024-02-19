@@ -473,7 +473,6 @@ img{
     }
     .skills{
         &__container{
-            grid-template-columns: repeat(2,1fr);
             align-items: center;
         }
     }
